@@ -1,0 +1,24 @@
+{
+  "name": "window",
+  "version": "1.0.0",
+  "description": "",
+  "main": "''",
+  "dependencies": {
+    "-": "0.0.1",
+    "cpp-struct-js": "^1.0.0",
+    "global": "^4.4.0",
+    "iconv": "^3.0.0",
+    "iconv-lite": "^0.6.2",
+    "net": "^1.0.2",
+    "node-gyp": "^7.1.2",
+    "promise": "^8.1.0",
+    "tsd": "^0.13.1",
+    "xterm": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
